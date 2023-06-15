@@ -1,4 +1,4 @@
-*.cpp -linguist-detectable
-*.cc -linguist-detectable
+# *.cc -linguist-detectable
+# *.cpp -linguist-detectable
 
-*.dart linguist-detectable
+# *.dart linguist-detectable
