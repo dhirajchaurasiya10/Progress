@@ -1,4 +1,4 @@
-*.c -linguist-detectable
-*.cpp -linguist-detectable
 
-*.dart linguist-detectable
+*.cpp -linguist-detectable=false
+
+*.dart linguist-detectable=true
